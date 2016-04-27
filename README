@@ -1,0 +1,11 @@
+Зависимости:
+    python 3
+    vlc
+
+    pygobject
+    gtk+
+
+Настройки в файле mconfig.py, там же указать рабочий плейлист
+
+get_channel_names.py загружает xml с названиями каналов и сохраняет их
+playlist_editor.py редактор плейлистов
